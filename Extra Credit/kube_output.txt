@@ -1,0 +1,3 @@
+NAME                      READY   STATUS    RESTARTS   AGE
+my-app-797ff49955-jvt6q   1/1     Running   0          29s
+my-app-797ff49955-t8hg9   1/1     Running   0          29s
